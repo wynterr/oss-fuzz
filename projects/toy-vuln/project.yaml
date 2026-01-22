@@ -1,0 +1,4 @@
+homepage: "https://github.com/wynterr/oss-fuzz.git"
+language: c++
+primary_contact: "nobody@hel.fi"
+main_repo: "https://github.com/wynterr/oss-fuzz.git"
