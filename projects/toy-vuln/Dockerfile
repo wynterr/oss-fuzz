@@ -12,4 +12,4 @@ COPY build.sh harness.cc $SRC/
 
 RUN chmod +x $SRC/build.sh
 
-WORKDIR $SRC/
+WORKDIR toy-vuln
